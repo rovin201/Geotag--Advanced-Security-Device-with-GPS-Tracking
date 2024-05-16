@@ -20,7 +20,7 @@ The device addresses personal safety by providing the users a way to alert autho
 
 ![Demo](https://github.com/rovin201/Geotag--Advanced-Security-Device-with-GPS-Tracking/assets/96007395/92d72a9a-383d-457f-9c35-8b800444e0e9)
 
-#Output
+# Output
 
 ![Coms](https://github.com/rovin201/Geotag--Advanced-Security-Device-with-GPS-Tracking/assets/96007395/901d8b75-3927-47e5-9849-2fe55cd397bb)
 
