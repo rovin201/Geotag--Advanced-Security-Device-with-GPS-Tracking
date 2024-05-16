@@ -16,3 +16,16 @@ Safety devices are important due to their paramount role in safeguarding users b
 
 #Output
 
+![Coms](https://github.com/rovin201/Geotag--Advanced-Security-Device-with-GPS-Tracking/assets/96007395/901d8b75-3927-47e5-9849-2fe55cd397bb)
+
+![Location Coordinates](https://github.com/rovin201/Geotag--Advanced-Security-Device-with-GPS-Tracking/assets/96007395/cbe2fb8f-f2d4-49d3-b764-fd5e4c0e6106)
+
+![Google Maps ](https://github.com/rovin201/Geotag--Advanced-Security-Device-with-GPS-Tracking/assets/96007395/6d293e0d-c879-46d1-87f7-2d1ef05ffe50)
+
+![ThingSpeak](https://github.com/rovin201/Geotag--Advanced-Security-Device-with-GPS-Tracking/assets/96007395/951720c7-511f-4f31-be6a-84fec21776e9)
+
+![Final Analysis 1](https://github.com/rovin201/Geotag--Advanced-Security-Device-with-GPS-Tracking/assets/96007395/0272425e-b0b9-4f3c-9275-f6dd752fb400)
+
+![Longtitude](https://github.com/rovin201/Geotag--Advanced-Security-Device-with-GPS-Tracking/assets/96007395/d1b8a8fc-d71f-48a7-a355-a839e5542dc3)
+
+![Gas level](https://github.com/rovin201/Geotag--Advanced-Security-Device-with-GPS-Tracking/assets/96007395/0ba31683-94e6-49af-8dce-8e4a2d837b89)
