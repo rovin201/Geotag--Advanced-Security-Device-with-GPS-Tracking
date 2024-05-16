@@ -1,6 +1,12 @@
 # Geotag- Advanced Security Device with GPS Tracking
 
-Safety devices are important due to their paramount role in safeguarding users by providing help under unprecedented situations. This concept introduces a cutting-edge Internet of Everything (IOE) initiative aimed at creating an all-encompassing device designed to enhance safety. It achieves this by continuously monitoring a user's location and promptly detecting the presence of smoke in the event of a fire. Ensuring public safety has emerged as a matter of utmost significance, underscored by the alarming statistic that every 40 seconds, an individual becomes unaccounted for. The device integrates a GPS module for precise location tracking to help users when under threat. The device is also equipped with a smoke detection sensor that is activated by the detection of smoke surpassing a predetermined threshold, which will help provide assistance in the event of a fire. The device addresses personal safety by providing the users a way to alert authorities by the press of a button. Gas leaks and fires are most perilous domestic and workplace hazards, the devices ability to  detect these gases and send alters helps prevent catastrophic accidents. 
+Safety devices are important due to their paramount role in safeguarding users by providing help under unprecedented situations. This concept introduces a cutting-edge Internet of Everything (IOE) initiative aimed at creating an all-encompassing device designed to enhance safety. 
+
+It achieves this by continuously monitoring a user's location and promptly detecting the presence of smoke in the event of a fire. Ensuring public safety has emerged as a matter of utmost significance, underscored by the alarming statistic that every 40 seconds, an individual becomes unaccounted for. 
+
+The device integrates a GPS module for precise location tracking to help users when under threat. The device is also equipped with a smoke detection sensor that is activated by the detection of smoke surpassing a predetermined threshold, which will help provide assistance in the event of a fire. 
+
+The device addresses personal safety by providing the users a way to alert authorities by the press of a button. Gas leaks and fires are most perilous domestic and workplace hazards, the devices ability to  detect these gases and send alters helps prevent catastrophic accidents. 
 
 # System Design 
 
@@ -32,7 +38,7 @@ Safety devices are important due to their paramount role in safeguarding users b
 
 # Applications
 
-The applications of the Geotag include:
+The applications of Geotag include:
 
 1. Personal Safety and Security: The IoE safety device can be used by individuals, especially women and children, to enhance their personal safety and security. It serves as a beacon of empowerment, providing a tangible sense of security and allowing users to send distress signals in critical situations.
    
@@ -48,3 +54,25 @@ The applications of the Geotag include:
     
 7. Community Safety Initiatives: Communities and neighborhoods can implement these devices as part of their safety initiatives. It enables residents to collaborate on improving security and responding swiftly to incidents.
 
+# Hardware and Software requirements
+
+Hardware:
+- NodeMCU ESP8266 Breakout Board
+- Adafruit Ultimate GPS Breakout
+- Pushbutton Switch, Momentary
+- Fingerprint sensor
+- Diode board
+- Cables
+
+Software: 
+- ThingSpeak
+- Arduino IDE
+- Google Maps
+
+# Conclusion
+
+In conclusion, the project underscores the effectiveness of the safety device that integrates the Neo 6M GPS module and MQ2 gas sensor with the NodeMCU ESP8266 microcontroller. Extensive testing has validated its capacity to accurately detect real-time location coordinates and gas levels, promptly notifying users upon surpassing predefined thresholds. 
+
+Future work involves refining algorithms to bolster accuracy, incorporating supplementary sensors for expanded functionality, and optimizing power consumption are pivotal. Such advancements promise broader applicability across diverse safety domains, including personal use and industrial monitoring. 
+
+By addressing these challenges and leveraging emerging technologies, the device stands poised to contribute significantly to the ongoing endeavour of enhancing safety and promoting well-being on various fronts. Its potential impact extends beyond mere detection and alerting, encompassing proactive measures and comprehensive safety solutions tailored to meet evolving needs in today's dynamic environments.
