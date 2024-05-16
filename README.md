@@ -7,3 +7,12 @@ Safety devices are important due to their paramount role in safeguarding users b
 ![IOE](https://github.com/rovin201/Geotag--Advanced-Security-Device-with-GPS-Tracking/assets/96007395/684be48b-4f7c-445d-8974-005a1ea4ea9c)
 
 # Circuit Diagram
+
+![CIRCUIT ](https://github.com/rovin201/Geotag--Advanced-Security-Device-with-GPS-Tracking/assets/96007395/ef5a3775-336d-48b9-b9dc-17294454660b)
+
+# Demo
+
+
+
+#Output
+
