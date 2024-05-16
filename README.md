@@ -4,3 +4,4 @@ Safety devices are important due to their paramount role in safeguarding users b
 
 # System Design 
 
+![IOE](https://github.com/rovin201/Geotag--Advanced-Security-Device-with-GPS-Tracking/assets/96007395/684be48b-4f7c-445d-8974-005a1ea4ea9c)
